@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Sketchify",
+  "description": "Transform your photos into artistic sketches using Gemini 2.5. Customize stroke width and artistic style.",
+  "requestFramePermissions": []
+}
